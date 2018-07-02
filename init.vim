@@ -33,6 +33,8 @@ set softtabstop=0
 set expandtab
 set smarttab
 set autoindent
+set guicursor+=a:blinkon0
+set whichwrap+=<,>,h,l,[,]
 
 autocmd FileType ruby setlocal shiftwidth=2
 autocmd FileType yaml setlocal shiftwidth=2

@@ -1,3 +1,4 @@
+# /etc/skel/.bash_profile
 
 PATH=$PATH:~/julia/usr/bin
 
